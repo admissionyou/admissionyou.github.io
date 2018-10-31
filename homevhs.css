@@ -27,10 +27,15 @@ p {
 }
 a:link {
     color: #C0C0C0;
+a:hover {
+    color: #b21f1f;
 }
 a:active {
     color: #C0C0C0
 }
+a.container2:hover {
+	color: #C0C0C0;
+]
 #about {
     background-color: #000000;
     font-family:adyoucardtwo;
