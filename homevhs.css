@@ -134,6 +134,9 @@ a:active {
     margin-right: -50%;
     transform: translate(-50%, -50%); 
 }
+a.container2:hover { 
+    color: #C0C0C0;
+}
 .container3 {
 	height: 15.025vw;
     background-color:;
