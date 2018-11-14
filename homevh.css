@@ -34,7 +34,7 @@ a:hover {
 a:active {
     color: #C0C0C0
 }
-#about {
+.about {
     background-color: #000000;
     font-family:adyoucardtwo;
     color: #C0C0C0;
