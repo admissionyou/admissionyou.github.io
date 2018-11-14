@@ -43,6 +43,7 @@ a:active {
     font-size: 1.53vw;
     padding: 2.8vw;
     border: solid .28vw;
+    border-radius: .28vw;
     border-color: #b21f1f;
 }
 #main2 {
