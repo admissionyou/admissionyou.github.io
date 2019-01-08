@@ -24,6 +24,7 @@ p {
 }
 @font-face{
 	font-family: adyou;
+    src: url(AvenirLTStd-Heavy.woff);
 }
 a:link {
     color: #C0C0C0;
@@ -310,6 +311,11 @@ a:active {
 }
 #ser {
     font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: 1.53vw;
+}
+#ser1 {
+    font-family:adyou;
     color: #C0C0C0;
     font-size: 1.53vw;
 }
