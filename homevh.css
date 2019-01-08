@@ -24,6 +24,7 @@ p {
 }
 @font-face{
 	font-family: adyou;
+	src: url("AvenirLTStd-Heavy.woff")
 }
 a:link {
     color: #C0C0C0;
@@ -168,6 +169,7 @@ a:active {
 	color: #C0C0C0;
 	background-color: #000000;
 }
+whenm
 .containersatact {
 	height: 4.335vw;
     background-color: black;
@@ -265,16 +267,8 @@ a:active {
     position: absolute;
 }
 .containerappess {
-	height: 7.25vw;
-    background-color: black;
-    padding: 3vw;
-    position: relative; 
     color: #C0C0C0;
-    font-family: adyoucardtwo;
-    border-bottom: solid .28vw;
-    border-top: solid .28vw;
-    border-bottom-color: #b21f1f;
-    border-top-color: #b21f1f;
+    font-family: adyou;
 }
 .containerappess a {
     font-family:adyoucardtwo;
@@ -288,6 +282,9 @@ a:active {
     font-size: 1.4025vw;
     position: absolute;
 }
+#whenclicked {
+	font-family: adyou;
+	
 .containerserv {
     margin: 0;
     padding: 3%;
