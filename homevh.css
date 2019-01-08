@@ -24,7 +24,6 @@ p {
 }
 @font-face{
 	font-family: adyou;
-	src: url("AvenirLTStd-Heavy.woff")
 }
 a:link {
     color: #C0C0C0;
@@ -35,7 +34,7 @@ a:hover {
 a:active {
     color: #C0C0C0
 }
-.about {
+#about {
     background-color: #000000;
     font-family:adyoucardtwo;
     color: #C0C0C0;
@@ -43,9 +42,7 @@ a:active {
     margin-right: 2.1vw;
     font-size: 1.53vw;
     padding: 2.8vw;
-    border-width: .28vw;
-    border-style: solid;
-    border-radius: .28vw;
+    border: solid .28vw;
     border-color: #b21f1f;
 }
 #main2 {
@@ -167,7 +164,6 @@ a:active {
 	width: 100%;
 	font-family:adyoucardtwo;
 	color: #C0C0C0;
-	background-color: #000000;
 }
 .containersatact {
 	height: 4.335vw;
@@ -211,7 +207,7 @@ a:active {
     font-size: 1.53vw;
     position: absolute;
 }
-.containercolvis p {
+.containercolcho p {
     font-family:adyoucardtwo;
     color: #C0C0C0;
     font-size: 1.4025vw;
@@ -266,11 +262,19 @@ a:active {
     position: absolute;
 }
 .containerappess {
+	height: 7.25vw;
+    background-color: black;
+    padding: 3vw;
+    position: relative; 
     color: #C0C0C0;
     font-family: adyoucardtwo;
+    border-bottom: solid .28vw;
+    border-top: solid .28vw;
+    border-bottom-color: #b21f1f;
+    border-top-color: #b21f1f;
 }
 .containerappess a {
-    font-family:adyou;
+    font-family:adyoucardtwo;
     color: #C0C0C0;
     font-size: 1.53vw;
     position: absolute;
@@ -281,9 +285,6 @@ a:active {
     font-size: 1.4025vw;
     position: absolute;
 }
-#whenclicked {
-	font-family: adyou;
-	
 .containerserv {
     margin: 0;
     padding: 3%;
