@@ -24,7 +24,7 @@ p {
 }
 @font-face{
 	font-family: adyou;
-    src: url(AvenirLTStd-Heavy.woff);
+    src: url("AvenirLTStd-Heavy.woff");
 }
 a:link {
     color: #C0C0C0;
