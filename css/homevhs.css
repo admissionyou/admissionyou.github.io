@@ -1,0 +1,336 @@
+body {
+	background-image: url("adyou.jpeg");
+    background-color: #444242;
+    background-size: 100% auto;
+    background-repeat: no-repeat;
+	color: #C0C0C0;
+}
+h1 {
+	color: #C0C0C0;
+	background-color: #000000;
+}
+p {
+	font-family:adyoucardtwo;
+	color: #C0C0C0;
+	font-size: 1.4025vw;
+}
+@font-face {
+	font-family:adyoucardtwo;
+	src: url("fonts/Avenir-Book.woff");
+}
+@font-face {
+	font-family:adyoucard;
+	src: url("fonts/sffourche.ttf");
+}
+a:link {
+    color: #C0C0C0;
+}
+a:hover {
+    color: #b21f1f;
+}
+a:active {
+    color: #C0C0C0
+}
+#about {
+    background-color: #000000;
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    margin-left: 2.1vw;
+    margin-right: 2.1vw;
+    font-size: 1.53vw;
+    padding: 2.8vw;
+    border: solid .28vw;
+    border-color: #b21f1f;
+}
+#main2 {
+	font-family:adyoucard;
+	font-size: 2.8vw;
+	color: #C0C0C0;
+    text-align: center;
+}
+#aboutus {
+    font-family: adyoucardtwo; 
+    font-size: 3.6vw;
+    color: #C0C0C0;
+    text-align: center;
+}
+#main3 {
+	font-family:adyoucardtwo;
+	color: #C0C0C0;
+}
+#main4 {
+	font-family:adyoucard;
+	color: #C0C0C0;
+}
+#main5 {
+	font-family:adyoucardtwo;
+	color: #C0C0C0;
+	font-size: 1.4025vw;
+	line-height: 1.5;
+}
+.container {
+    height: 14.025vw;
+    width: 100%;
+    background-color: black;
+    position: relative; 
+    color: #C0C0C0;
+    border-bottom: solid .28vw;
+    border-top: solid .28vw;
+    border-bottom-color: #b21f1f;
+    border-top-color: #b21f1f;
+}
+.container p {
+	font-size: 7vw;
+	font-family: adyoucard;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+}
+.container a {
+    font-size: 1.53vw;
+    font-family: adyoucard;
+    margin: 0;
+    position: absolute;
+    top: 10%;
+    left: 102%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+}
+.container2 {
+	height: 11.22vw;
+    background-color: black;
+    position: relative; 
+    color: #C0C0C0;
+    font-family: adyoucardtwo;
+    border-bottom: solid .28vw;
+    border-top: solid .28vw;
+    border-bottom-color: #b21f1f;
+    border-top-color: #b21f1f;
+}
+.container2 h3 {
+	font-size: 1.4025vw;
+	line-height: 1.5;
+	font-family: adyoucardtwo;
+    margin: 0;
+    position: absolute;
+    top: 20%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    font-weight: normal; 
+}
+.container2 p {
+	font-size: 1.4025vw;
+	font-family: adyoucardtwo;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 52.6%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+}
+.container2 a {
+    font-size: 1.4025vw;
+    line-height: 1.5;
+    font-family: adyoucardtwo;
+    margin: 0;
+    position: absolute;
+    top: 80%;
+    left: 45.2%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+}
+}
+.container3 {
+	height: 15.025vw;
+    background-color:;
+    padding-bottom: 1.4025vw;
+    padding-top: 1.4025vw;
+    position: relative; 
+    color: #C0C0C0;
+    font-family: adyoucardtwo;
+    border-bottom: solid .28vw;
+    border-bottom-color: #b21f1f;
+}
+.container3 p {
+	font-size: 1.65vw;
+	line-height: 2;
+	font-family: adyoucardtwo;
+    margin: 0;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%); 
+}
+.bottom {
+	position: relative;
+	bottom: 0;
+	font-size: .8vw;
+	text-align: right;
+	width: 100%;
+	font-family:adyoucardtwo;
+	color: #C0C0C0;
+}
+.containersatact {
+	height: 4.335vw;
+    background-color: black;
+    position: relative; 
+    padding: 2vw;
+    color: #C0C0C0;
+    font-family: adyoucardtwo;
+    border-bottom: solid .28vw;
+    border-top: solid .28vw;
+    border-bottom-color: #b21f1f;
+    border-top-color: #b21f1f;
+}
+.containersatact a {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: 1.53vw;
+    position: absolute;
+}
+.containersatact p {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: 1.4025vw;
+    position: absolute;
+}
+.containercolvis {
+	height: 9.25vw;
+    background-color: black;
+    padding: 3vw;
+    position: relative; 
+    color: #C0C0C0;
+    font-family: adyoucardtwo;
+    border-bottom: solid .28vw;
+    border-top: solid .28vw;
+    border-bottom-color: #b21f1f;
+    border-top-color: #b21f1f;
+}
+.containercolvis a {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: 1.53vw;
+    position: absolute;
+}
+.containercolvis p {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: 1.4025vw;
+    position: absolute;
+}
+.containercolcho {
+	height: 12vw;
+    background-color: black;
+    position: relative; 
+    padding: 3.5vw;
+    color: #C0C0C0;
+    font-family: adyoucardtwo;
+    border-bottom: solid .28vw;
+    border-top: solid .28vw;
+    border-bottom-color: #b21f1f;
+    border-top-color: #b21f1f;
+}
+.containercolcho a {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: 1.53vw;
+    position: absolute;
+}
+.containercolcho p {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: 1.4025vw;
+    position: absolute;
+}
+.containercolapp {
+	height: 7.25vw;
+    background-color: black;
+    padding: 3vw;
+    position: relative; 
+    color: #C0C0C0;
+    font-family: adyoucardtwo;
+    border-bottom: solid .28vw;
+    border-top: solid .28vw;
+    border-bottom-color: #b21f1f;
+    border-top-color: #b21f1f;
+}
+.containercolapp a {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: 1.53vw;
+    position: absolute;
+}
+.containercolapp p {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: 1.4025vw;
+    position: absolute;
+}
+.containerappess {
+	height: 7.25vw;
+    background-color: black;
+    padding: 3vw;
+    position: relative; 
+    color: #C0C0C0;
+    font-family: adyoucardtwo;
+    border-bottom: solid .28vw;
+    border-top: solid .28vw;
+    border-bottom-color: #b21f1f;
+    border-top-color: #b21f1f;
+}
+.containerappess a {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: 1.53vw;
+    position: absolute;
+}
+.containerappess p {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: 1.4025vw;
+    position: absolute;
+}
+.containerserv {
+    margin: 0;
+    padding: 3%;
+    border-bottom: solid .28vw;
+    border-top: solid .28vw;
+    border-bottom-color: #b21f1f;
+    border-top-color: #b21f1f;
+}
+.containerhome {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    position: relative;
+}
+.containerhome p {
+    font-family:adyoucardtwo;
+    font-size: 2vw;
+    position: absolute;
+    top: 50%;
+    left: 70%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%);
+    margin: 0;
+}
+#ser {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: 1.53vw;
+}
+#blairtm {
+    font-family:adyoucardtwo;
+    color: #C0C0C0;
+    font-size: .8vw;
+    text-align: right;
+}
+#biggay {
+    font-color: #444242;
+    font-size: .1vw;
+    text-align: left;
+}
