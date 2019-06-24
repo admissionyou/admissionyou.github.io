@@ -132,17 +132,17 @@ a:active {
     margin-right: -50%;
     transform: translate(-50%, -50%); 
 }
-.container2 a {
+.container2 h4 {
     font-size: 1.4025vw;
     line-height: 1.5;
     font-family: adyoucardtwo;
+	font-weight: normal;
     margin: 0;
     position: absolute;
     top: 80%;
     left: 45.2%;
     margin-right: -50%;
     transform: translate(-50%, -50%); 
-}
 }
 .container3 {
 	height: 15.025vw;
